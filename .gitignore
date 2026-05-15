@@ -1,0 +1,7 @@
+target/
+test-output/
+*.log
+.idea/
+.settings/
+.classpath
+.project
